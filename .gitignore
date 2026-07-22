@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.pnpm-store/
+tmp/
+output/
+打开网站.bat
+
+*.log
+.DS_Store
+Thumbs.db
